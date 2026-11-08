@@ -1,0 +1,10 @@
+# Masjid Al-Ikhlas – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Al-Ikhlas"
+description: "Masjid Al-Ikhlas, Harakantie 20 B, 02600 Espoo. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-ikhlas     # tiedosto _moskeijat/masjid-al-ikhlas.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-al-ikhlas-espoo/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-al-ikhlas-espoo"
