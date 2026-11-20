@@ -8,3 +8,4 @@ moskeija: masjid-al-ikhlas     # tiedosto _moskeijat/masjid-al-ikhlas.md
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://suomen-moskeijat.github.io"
 baseurl: "/masjid-al-ikhlas-espoo"
+kielet: [fi]   # sivuston kielivalikko (hallintapaneeli → Asetukset)
